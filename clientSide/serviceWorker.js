@@ -6,7 +6,7 @@ var CACHE_FILES = [
 	'/css/styles.css',
 	'/js/dbhelper.js',
 	'/js/main.js',
-	'/data/restaurants.json',
+	'/js/indexDB.js',
 	'/js/restaurant_info.js',
 	'/img/1.jpg',
 	'/img/2.jpg',
