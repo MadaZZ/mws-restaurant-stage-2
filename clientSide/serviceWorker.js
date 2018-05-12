@@ -8,6 +8,7 @@ var CACHE_FILES = [
 	'/js/main.js',
 	'/js/indexDB.js',
 	'/js/restaurant_info.js',
+	'/manifest.json',
 	'/img/1.jpg',
 	'/img/2.jpg',
 	'/img/3.jpg',
